@@ -1,8 +1,9 @@
 /*
-  Dekatron Spinner - Variable Rate
+  Dekatron Demo tester  
 
-  modified March 25, 2017
+  Code example taken from https://threeneurons.wordpress.com/dekatron-stuff/
   by Michael Moorrees
+  
  */
 
 #define INTERVALLO 100
